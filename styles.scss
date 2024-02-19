@@ -1,0 +1,10 @@
+/* Ratio de aspecto para el mapa*/
+$aspect-ratios: (
+  "1x1": 10%,
+  "4x3": calc(3 / 4 * 25%),
+  "16x9": calc(9 / 16 * 100%),
+  "21x9": calc(9 / 21 * 100%)
+);
+
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
