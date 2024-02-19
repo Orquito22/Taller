@@ -171,7 +171,8 @@
 }
 
 .texto-nosotros-titulo{
-    font-family: 'Russo one', sans serif;
+    font-family: 'Montserrat', sans serif;
+    font-weight: 1000;
     color: white;
     font-size: calc(16px + 4vw);
     line-height: 1.2;
@@ -233,7 +234,7 @@
 }
 .left {
 	background-image: url('./statics/contactanos.svg');
-    background-size: 100% auto;
+    background-size: 120% auto;
     
 	padding: 180px 49px;
 }
